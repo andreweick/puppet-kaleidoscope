@@ -5,7 +5,7 @@
 #    include kaleidoscope
 class kaleidoscope (
   $enable_cli = true,
-  $make_default = true,
+  $make_default = false,
   $version = '2.0.2-116',
 ) {
 
